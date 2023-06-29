@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("This program generate empty folders for each days");
 
-Console.WriteLine("(C) Horev Ivan 2023 (horevvian@yandex.ru)");
+Console.WriteLine("(C) Horev Ivan 2023 (horevivan@yandex.ru)");
 
 Console.WriteLine("Enter start date or press Enter for use current date");
 

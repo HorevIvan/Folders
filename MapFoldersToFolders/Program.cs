@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("This program move each folders from directory to subdirectories another folders");
 
-Console.WriteLine("(C) Horev Ivan 2023 (horevvian@yandex.ru)");
+Console.WriteLine("(C) Horev Ivan 2023 (horevivan@yandex.ru)");
 
 //
 
